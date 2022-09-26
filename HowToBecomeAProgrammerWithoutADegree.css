@@ -1,0 +1,27 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+img {
+    width: 800px;height: 300px;
+    padding-right: 20%;
+}
+
+div {
+    border: 2px solid grey;
+    padding: 5px;
+    background-color:#e9f5f9 ;
+}
+
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
